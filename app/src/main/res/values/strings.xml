@@ -12,4 +12,7 @@
 
     <string name="no_boot_events">No boots detected</string>
     <string name="boot_events_detected">Boot events amount: </string>
+
+    <string name="notification_title">Boot events amount</string>
+    <string name="notification_subtitle">No boots detected</string>
 </resources>
